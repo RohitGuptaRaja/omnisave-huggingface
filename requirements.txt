@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+yt-dlp[default,curl-cffi]==2026.10.26
+instaloader
+imageio-ffmpeg
+fastapi
+requests
+beautifulsoup4
